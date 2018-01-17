@@ -1,1 +1,1 @@
-# Machine Learning Project
+# Machine Learning Project - Facial Recognition Using PCA and Eigenfaces
